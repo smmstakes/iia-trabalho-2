@@ -1,5 +1,7 @@
 # Projeto 2 - Introdução à Inteligência Artificial (2025/1)
 
+- **Aluno:** Matheus Duarte da Silva - 211062277
+
 ## Descrição do Projeto
 
 Este projeto foi desenvolvido para a disciplina de Introdução à Inteligência Artificial (IIA) da Universidade de Brasília, realizada com o Prof. Díbio Leandro. 
@@ -68,6 +70,16 @@ Após a execução da validação cruzada de 5 folds, os resultados de performan
 | 3    | 0.714 | 0.379 |
 | 4    | 0.685 | 0.353 |
 
-- A média dos valores de $AP_{50}$ obtidos foi de **0.69561**, com um desvio padrão de **0.01226**
+- A média dos valores de $AP_{50}$ obtidos foi de **0.69561**, com um desvio padrão de **0.01226**;
+- A média dos valores de $AP_{50\text{-}95}$ obtidos foi de **0.365**, com um desvio padrão de **0.010**.
 
 A média dos valores de $AP_{50}$ é **ligeiramente superior** ao valor médio de **0.686** reportado no artigo, indicando que o modelo **YOLOv11 nano** conseguiu superar a performance dos modelos anchor-free testados no estudo original.
+
+--- 
+
+##### Palavras-Chave
+- Python
+- YOLOv11 (You Only Look Once)
+- Ultralytics
+- Universidade de Brasília (UnB)
+- Introdução a Inteligência Artificial (IIA)
